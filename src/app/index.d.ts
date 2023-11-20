@@ -1,0 +1,1 @@
+function loadPyodide({ indexURL: string }): any;
